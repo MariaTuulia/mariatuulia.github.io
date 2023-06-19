@@ -1,0 +1,32 @@
+<!-- Declarations. -->
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>YouSphere</title>
+      
+<!-- Style(CSS). -->
+<style>  
+/* Logo Styles. */
+  img {margin: 0 auto;}
+   #idee {background-color: rgb(170, 170, 170);}
+  #h1-in-idee {background-color: rgb(170, 170, 170);}
+  
+/* Website Style. */
+   body {background-color: rgb(236, 238, 240)}
+   </style>
+
+<!-- Main Body.-->
+ <body>
+   
+<p id="idee">
+  <img src="file:///Users/mariasalonen/Downloads/Logos/youspherelogo.png " width="150" alt="Logo">
+  <h1 id="h1-in-idee">
+    YouSphere
+   </h1>
+</p>
+   
+  <h3>Where legends are made</h3>
+  <p id="welcome">Welcome to your life audit. Here you can find and store everything that is important</p>
+      
+ </body>
